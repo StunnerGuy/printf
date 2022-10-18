@@ -1,7 +1,5 @@
 # 0x11. C - printf
 
-
-
 ## Description
 This is a team project between OSHISANYA TOKUNBO and AL-MUKHTAR JAMILAT LADIDI. We are ALX Africa software engineering program students. This project involves a function named '_printf'. The _printf function will imitate the actual 'printf' command located in the <stdio.h> library.
 ## Prototype
